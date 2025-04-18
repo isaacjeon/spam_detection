@@ -1,9 +1,5 @@
 # spam_detection
 
-This project is in the form of a Jupyter notebook.
+This project uses the [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) from Kaggle.
 
-The goal of the project is to build models that predict depression for a person given several attributes about that person.
-
-It involves performing some exploratory data analysis and data cleaning, followed by training and evaluates models built using several approaches which include Random Forests, gradient boosting with XGBoost, and Support Vector Machines.
-
-The dataset can be found here: [https://www.kaggle.com/datasets/sumansharmadataworld/depression-surveydataset-for-analysis/data](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+The goal of this project is to use several unsupervised learning techniques for dimensionality reduction for a binary classification spam detection task with logistic regression as well as for clustering with K-Means.
